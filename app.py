@@ -232,10 +232,12 @@ TRANSLATIONS = {
 # ---------------------------------------------------------------------------
 # Language selector (top of sidebar)
 # ---------------------------------------------------------------------------
-lang_code = st.sidebar.selectbox(
-    "🌐 Idioma / Language",
+lang_code = st.sidebar.radio(
+    "lang",
     options=["es", "en"],
-    format_func=lambda c: "Español" if c == "es" else "English",
+    format_func=lambda c: "🇪🇸" if c == "es" else "🇬🇧",
+    horizontal=True,
+    label_visibility="collapsed",
 )
 t = TRANSLATIONS[lang_code]
 
