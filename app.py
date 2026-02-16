@@ -120,7 +120,7 @@ TRANSLATIONS = {
         ),
         "conclusion_cta": "<b>La solución no es más gente. Es mejor información.</b>",
         "footer": (
-            "Desarrollado por [HireRobots](https://www.hirrobots.com) — "
+            "Desarrollado por [HireRobots](https://www.linkedin.com/company/hirerobots) — "
             "convirtiendo la planificación reactiva en planificación inteligente con pronóstico de demanda."
         ),
     },
@@ -223,7 +223,7 @@ TRANSLATIONS = {
         ),
         "conclusion_cta": "<b>The solution isn't more people. It's better information.</b>",
         "footer": (
-            "Built by [HireRobots](https://www.hirrobots.com) — "
+            "Built by [HireRobots](https://www.linkedin.com/company/hirerobots) — "
             "turning reactive planning into smart planning with demand forecasting."
         ),
     },
